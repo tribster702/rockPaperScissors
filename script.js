@@ -1,8 +1,5 @@
-# rockPaperScissors
-Odin Project JS Foundations Rock Paper Scissors Project
-
-This is my first project using JavaScript. The goal is to create logic in JS that will function as a Rock Paper Scissors game.
-
+console.log("Hello World")
+/*
 Some of the goals of this project are to:
     -Create pseudocode that will guide the process of creating functionable code in JS.
     -Link external .js in html code.
@@ -15,3 +12,7 @@ Some of the goals of this project are to:
     -Create 'game()' function that calls a 'playRound' function.
     -Utilize loops in order to play a 5 round game that keeps score and reports a winner and/or loser at the end of the game.
     -Utilize prompt() to collect input from user.
+    
+Pseudocode for game logic:
+
+*/
